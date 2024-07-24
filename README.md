@@ -26,7 +26,7 @@ Special coding for build systems is a hassle.
 [MuJS](https://mujs.com/) is small. 
 It has chunks, which allows the split of code into several files. 
 It is fast. 
-*MuJS* is open source and licensed under a custom license, which is quite permissible. 
+*MuJS* is open source and licensed under an [ISC license](https://opensource.org/license/isc-license-txt), which is quite permissible. 
 *MuJS* like *C* does not comprise more than a few simple functions, but easily can be extended. 
 
 ## Build Data structure
